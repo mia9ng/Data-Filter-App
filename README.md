@@ -7,4 +7,4 @@ For the app to run:
 4. If the picture doesn't show:
    - You can add setwd to "app.R".
    - For Run App button, make sure it's "Run External"
-5. The sample data is Employee Data Report (11).csv
+5. The sample data is Employee Data Report (11).xlsx
